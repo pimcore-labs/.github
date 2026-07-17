@@ -10,7 +10,7 @@ that usually never leave a laptop. This is where we open them up and share them.
 | | |
 |---|---|
 | [**Pimcore Lab**](https://github.com/orgs/pimcore-labs/repositories) | AI-driven prototypes and experimental integrations built by the Pimcore team. |
-| [**Community Lab**](https://github.com/pimcore-labs/.github/blob/main/Community-Lab) | Open innovation from partners, developers and the wider community. |
+| [**Community Lab**](https://github.com/pimcore-labs/.github/blob/main/Community-Lab.md) | Open innovation from partners, developers and the wider community. |
 
 ## Not Production Ready — And That's The Point
 
